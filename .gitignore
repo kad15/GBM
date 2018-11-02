@@ -1,7 +1,37 @@
 # libre office impress
 .~lock*
--~lock 
 
+# docx
+~*
+
+# latex
+
+*.aux
+*.bcf
+*.run.xml
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.ptc
+*.synctex.gz
 
 
 
